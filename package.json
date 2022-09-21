@@ -15,7 +15,7 @@
     "vue": "^2.6.12",
     "vue-csv-import": "^3.3.5",
     "vue-xls-csv-parser": "0.0.21",
-    "vuetify": "^2.3.16"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.8",
